@@ -1,1 +1,0 @@
-# Psic-abelnavarro.github.io
