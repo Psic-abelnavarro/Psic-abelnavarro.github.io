@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="225" viewBox="0 0 300 225" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradientThumb" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2E5BBA;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0F2A5C;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="greenGradientThumb" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Fondo -->
+  <rect width="300" height="225" fill="url(#bgGradientThumb)"/>
+  
+  <!-- Formas decorativas -->
+  <path d="M 225 0 Q 300 0 300 75 Q 300 37 262 18 Q 243 0 225 0 Z" fill="url(#greenGradientThumb)" opacity="0.9"/>
+  <path d="M 0 150 Q 0 225 75 225 Q 37 225 18 187 Q 0 168 0 150 Z" fill="url(#greenGradientThumb)" opacity="0.9"/>
+  
+  <!-- Marco -->
+  <rect x="15" y="15" width="270" height="195" fill="white" rx="8" ry="8"/>
+  <rect x="18" y="18" width="264" height="189" fill="none" stroke="#2E5BBA" stroke-width="1" rx="6" ry="6"/>
+  
+  <!-- Logo pequeño -->
+  <circle cx="40" cy="40" r="12" fill="#4CAF50"/>
+  <text x="55" y="35" font-family="Arial" font-size="6" fill="#2E7D32">Potencial</text>
+  <text x="55" y="43" font-family="Arial" font-size="6" fill="#2E7D32">humano 360</text>
+  
+  <!-- Título -->
+  <text x="150" y="65" text-anchor="middle" font-family="Arial" font-size="12" fill="#2E7D32" font-weight="bold">CERTIFICADO DE PARTICIPACIÓN</text>
+  
+  <!-- Subtítulo -->
+  <text x="150" y="80" text-anchor="middle" font-family="Arial" font-size="8" fill="#424242">Potencial humano 360</text>
+  
+  <!-- Texto certifica -->
+  <text x="150" y="95" text-anchor="middle" font-family="Georgia" font-size="6" fill="#666666">certifica que:</text>
+  
+  <!-- Nombre -->
+  <text x="150" y="120" text-anchor="middle" font-family="Cursive" font-size="14" fill="#2E5BBA">Vicente Navarro Huerrera</text>
+  
+  <!-- Texto participación -->
+  <text x="150" y="135" text-anchor="middle" font-family="Arial" font-size="6" fill="#424242">ah participado satisfactoriamente en la/el</text>
+  
+  <!-- Nombre del taller -->
+  <text x="150" y="150" text-anchor="middle" font-family="Arial" font-size="8" fill="#2E5BBA">"Taller de habilidades blandas"</text>
+  
+  <!-- Línea decorativa -->
+  <line x1="75" y1="170" x2="225" y2="170" stroke="#2E5BBA" stroke-width="1"/>
+  
+  <!-- Firma -->
+  <text x="150" y="190" text-anchor="middle" font-family="Arial" font-size="6" fill="#2E5BBA">Psic. Abel Uriaz Navarro Carrasco</text>
+  <text x="150" y="200" text-anchor="middle" font-family="Arial" font-size="5" fill="#666666">Capacitador en Potencial Humano 360</text>
+</svg>
