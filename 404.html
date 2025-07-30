@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>Psicólogo Abel Navarro - Consulta Psicológica Profesional</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Consulta psicológica profesional con Abel Navarro. Terapia individual, evaluaciones psicológicas y talleres especializados.">
+  <meta name="keywords" content="psicólogo, terapia, salud mental, consulta psicológica, Abel Navarro">
+  <meta name="author" content="Abel Navarro">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  
+  <!-- Bootstrap 5.3.7 CSS - Última versión estable -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+  
+  <!-- Bootstrap Icons 1.11.3 - Última versión -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
+  
+  <!-- Google Fonts para mejor tipografía -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  
+  <!-- Angular SPA Redirect Script -->
+  <script>
+    // Inmediatamente redirigir al index.html con la ruta preservada
+    var pathSegmentsToKeep = 0;
+    var l = window.location;
+    l.replace(
+      l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
+      l.pathname.split('/').slice(0, 1 + pathSegmentsToKeep).join('/') + 
+      '/?/' + 
+      l.pathname.slice(1).split('/').slice(pathSegmentsToKeep).join('/').replace(/&/g, '~and~') +
+      (l.search ? '&' + l.search.slice(1).replace(/&/g, '~and~') : '') +
+      l.hash
+    );
+  </script>
+</head>
+<body>
+  <!-- Contenido de carga mientras redirige -->
+  <div style="display: flex; justify-content: center; align-items: center; height: 100vh; font-family: 'Inter', sans-serif;">
+    <div style="text-align: center;">
+      <div style="font-size: 24px; color: #0d6efd; margin-bottom: 10px;">🧠</div>
+      <div style="font-size: 18px; color: #333;">Cargando...</div>
+    </div>
+  </div>
+</body>
+</html>
