@@ -1,587 +1,318 @@
 {
-  "templates": [
-    {
-      "id": "potencial-humano-360",
-      "name": "Potencial Humano 360",
-      "description": "Plantilla oficial de Potencial Humano 360",
-      "backgroundImage": "/plantilla/plantilla1.jpeg",
-      "elements": [
-        {
-          "type": "image",
-          "x": 120,
-          "y": 100,
-          "width": 80,
-          "height": 80,
-          "src": "/potencial-humano-logo.svg"
-        },
-        {
-          "type": "text",
-          "x": 220,
-          "y": 110,
-          "text": "Potencial humano",
-          "fontSize": 28,
-          "fontFamily": "Montserrat",
-          "fill": "#2c5530",
-          "fontStyle": "normal",
-          "align": "left"
-        },
-        {
-          "type": "text",
-          "x": 220,
-          "y": 145,
-          "text": "360",
-          "fontSize": 48,
-          "fontFamily": "Montserrat",
-          "fill": "#2c5530",
-          "fontStyle": "bold",
-          "align": "left"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 220,
-          "text": "CERTIFICADO DE PARTICIPACIÓN",
-          "fontSize": 42,
-          "fontFamily": "Montserrat",
-          "fill": "#2c5530",
-          "fontStyle": "bold",
-          "align": "center"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 280,
-          "text": "Potencial humano 360",
-          "fontSize": 32,
-          "fontFamily": "Open Sans",
-          "fill": "#4a4a4a",
-          "fontStyle": "normal",
-          "align": "center"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 330,
-          "text": "certifica que:",
-          "fontSize": 22,
-          "fontFamily": "Open Sans",
-          "fill": "#4a4a4a",
-          "fontStyle": "italic",
-          "align": "center"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 400,
-          "text": "Vicente Navarro Guerrera",
-          "fontSize": 56,
-          "fontFamily": "Dancing Script",
-          "fill": "#2c3e50",
-          "fontStyle": "normal",
-          "align": "center"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 440,
-          "text": "________________________________",
-          "fontSize": 16,
-          "fontFamily": "Arial",
-          "fill": "#666666",
-          "fontStyle": "normal",
-          "align": "center"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 480,
-          "text": "ah participado satisfactoriamente en la/el",
-          "fontSize": 20,
-          "fontFamily": "Open Sans",
-          "fill": "#4a4a4a",
-          "fontStyle": "normal",
-          "align": "center"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 520,
-          "text": "\"Taller de habilidades blandas\"",
-          "fontSize": 28,
-          "fontFamily": "Montserrat",
-          "fill": "#2c5530",
-          "fontStyle": "bold",
-          "align": "center"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 560,
-          "text": "Desarrollado en la modalidad presencial",
-          "fontSize": 18,
-          "fontFamily": "Open Sans",
-          "fill": "#4a4a4a",
-          "fontStyle": "italic",
-          "align": "center"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 590,
-          "text": "Horas académicas: 12",
-          "fontSize": 18,
-          "fontFamily": "Open Sans",
-          "fill": "#4a4a4a",
-          "fontStyle": "normal",
-          "align": "center"
-        },
-        {
-          "type": "text",
-          "x": 973,
-          "y": 630,
-          "text": "25 de febrero de 2025",
-          "fontSize": 16,
-          "fontFamily": "Open Sans",
-          "fill": "#4a4a4a",
-          "fontStyle": "normal",
-          "align": "right"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 710,
-          "text": "________________________________",
-          "fontSize": 16,
-          "fontFamily": "Arial",
-          "fill": "#666666",
-          "fontStyle": "normal",
-          "align": "center"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 740,
-          "text": "Psic. Abel Uriaz Navarro Carrasco",
-          "fontSize": 20,
-          "fontFamily": "Montserrat",
-          "fill": "#2c3e50",
-          "fontStyle": "bold",
-          "align": "center"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 765,
-          "text": "Capacitador en Potencial Humano 360",
-          "fontSize": 16,
-          "fontFamily": "Open Sans",
-          "fill": "#4a4a4a",
-          "fontStyle": "normal",
-          "align": "center"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 785,
-          "text": "C.Ps.P. N° 64179",
-          "fontSize": 14,
-          "fontFamily": "Open Sans",
-          "fill": "#4a4a4a",
-          "fontStyle": "normal",
-          "align": "center"
-        },
-        {
-          "type": "image",
-          "x": 486.5,
-          "y": 660,
-          "width": 150,
-          "height": 40,
-          "src": "/firma/firma.jpeg"
-        }
-      ]
-    },
-    {
-      "id": "participacion",
-      "name": "Certificado de Participación",
-      "description": "Certificado general de participación en eventos",
-      "backgroundImage": "/plantilla/plantilla1.jpeg",
-      "elements": [
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 180,
-          "text": "CERTIFICADO DE PARTICIPACIÓN",
-          "fontSize": 48,
-          "fontFamily": "Montserrat",
-          "fill": "#2c3e50",
-          "fontStyle": "bold"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 280,
-          "text": "Se otorga el presente certificado a:",
-          "fontSize": 24,
-          "fontFamily": "Open Sans",
-          "fill": "#34495e"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 350,
-          "text": "[NOMBRE DEL PARTICIPANTE]",
-          "fontSize": 36,
-          "fontFamily": "Merriweather",
-          "fill": "#e74c3c",
-          "fontStyle": "bold"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 420,
-          "text": "Por su participación en el evento:",
-          "fontSize": 20,
-          "fontFamily": "Open Sans",
-          "fill": "#34495e"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 470,
-          "text": "[NOMBRE DEL EVENTO]",
-          "fontSize": 28,
-          "fontFamily": "Lato",
-          "fill": "#2c3e50",
-          "fontStyle": "bold"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 520,
-          "text": "Realizado el [FECHA] en [LUGAR]",
-          "fontSize": 18,
-          "fontFamily": "Open Sans",
-          "fill": "#7f8c8d"
-        },
-        {
-          "type": "image",
-          "x": 923,
-          "y": 720,
-          "width": 150,
-          "height": 100,
-          "src": "/firma/firma.jpeg"
-        }
-      ]
-    },
-    {
-      "id": "ponencia",
-      "name": "Certificado de Ponencia",
-      "description": "Para ponentes y speakers",
-      "backgroundImage": "/plantilla/plantilla2.jpeg",
-      "elements": [
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 160,
-          "text": "CERTIFICADO DE PONENCIA",
-          "fontSize": 44,
-          "fontFamily": "Montserrat",
-          "fill": "#8e44ad",
-          "fontStyle": "bold"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 240,
-          "text": "Se reconoce a:",
-          "fontSize": 22,
-          "fontFamily": "Open Sans",
-          "fill": "#2c3e50"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 300,
-          "text": "[NOMBRE DEL PONENTE]",
-          "fontSize": 40,
-          "fontFamily": "Merriweather",
-          "fill": "#e67e22",
-          "fontStyle": "bold"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 380,
-          "text": "Por su destacada ponencia:",
-          "fontSize": 20,
-          "fontFamily": "Open Sans",
-          "fill": "#34495e"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 430,
-          "text": "[TÍTULO DE LA PONENCIA]",
-          "fontSize": 26,
-          "fontFamily": "Lato",
-          "fill": "#8e44ad",
-          "fontStyle": "bold"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 490,
-          "text": "Presentada en [EVENTO] - [FECHA]",
-          "fontSize": 18,
-          "fontFamily": "Open Sans",
-          "fill": "#7f8c8d"
-        },
-        {
-          "type": "image",
-          "x": 923,
-          "y": 720,
-          "width": 150,
-          "height": 100,
-          "src": "/firma/firma.jpeg"
-        }
-      ]
-    },
-    {
-      "id": "taller",
-      "name": "Certificado de Taller",
-      "description": "Para talleres prácticos y workshops",
-      "backgroundImage": "/plantilla/plantilla1.jpeg",
-      "elements": [
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 170,
-          "text": "CERTIFICADO DE TALLER",
-          "fontSize": 46,
-          "fontFamily": "Montserrat",
-          "fill": "#27ae60",
-          "fontStyle": "bold"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 250,
-          "text": "Certificamos que:",
-          "fontSize": 24,
-          "fontFamily": "Open Sans",
-          "fill": "#2c3e50"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 320,
-          "text": "[NOMBRE DEL PARTICIPANTE]",
-          "fontSize": 38,
-          "fontFamily": "Merriweather",
-          "fill": "#d35400",
-          "fontStyle": "bold"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 390,
-          "text": "Ha completado satisfactoriamente el taller:",
-          "fontSize": 19,
-          "fontFamily": "Open Sans",
-          "fill": "#34495e"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 440,
-          "text": "[NOMBRE DEL TALLER]",
-          "fontSize": 30,
-          "fontFamily": "Lato",
-          "fill": "#27ae60",
-          "fontStyle": "bold"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 500,
-          "text": "Duración: [HORAS] horas - [FECHA]",
-          "fontSize": 18,
-          "fontFamily": "Open Sans",
-          "fill": "#7f8c8d"
-        },
-        {
-          "type": "image",
-          "x": 923,
-          "y": 720,
-          "width": 150,
-          "height": 100,
-          "src": "/firma/firma.jpeg"
-        }
-      ]
-    },
-    {
-      "id": "capacitacion",
-      "name": "Certificado de Capacitación",
-      "description": "Para cursos de capacitación profesional",
-      "backgroundImage": "/plantilla/plantilla2.jpeg",
-      "elements": [
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 150,
-          "text": "CERTIFICADO DE CAPACITACIÓN",
-          "fontSize": 42,
-          "fontFamily": "Montserrat",
-          "fill": "#3498db",
-          "fontStyle": "bold"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 220,
-          "text": "El presente documento certifica que:",
-          "fontSize": 20,
-          "fontFamily": "Open Sans",
-          "fill": "#2c3e50"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 280,
-          "text": "[NOMBRE DEL CAPACITADO]",
-          "fontSize": 36,
-          "fontFamily": "Merriweather",
-          "fill": "#c0392b",
-          "fontStyle": "bold"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 350,
-          "text": "Ha sido capacitado(a) en:",
-          "fontSize": 22,
-          "fontFamily": "Open Sans",
-          "fill": "#34495e"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 400,
-          "text": "[TEMA DE CAPACITACIÓN]",
-          "fontSize": 28,
-          "fontFamily": "Lato",
-          "fill": "#3498db",
-          "fontStyle": "bold"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 460,
-          "text": "Con una duración de [HORAS] horas académicas",
-          "fontSize": 18,
-          "fontFamily": "Open Sans",
-          "fill": "#7f8c8d"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 510,
-          "text": "[LUGAR] - [FECHA]",
-          "fontSize": 18,
-          "fontFamily": "Open Sans",
-          "fill": "#7f8c8d"
-        },
-        {
-          "type": "image",
-          "x": 923,
-          "y": 720,
-          "width": 150,
-          "height": 100,
-          "src": "/firma/firma.jpeg"
-        }
-      ]
-    },
-    {
-      "id": "reconocimiento",
-      "name": "Certificado de Reconocimiento",
-      "description": "Para reconocimientos especiales",
-      "backgroundImage": "/plantilla/plantilla1.jpeg",
-      "elements": [
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 160,
-          "text": "CERTIFICADO DE RECONOCIMIENTO",
-          "fontSize": 40,
-          "fontFamily": "Montserrat",
-          "fill": "#e67e22",
-          "fontStyle": "bold"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 240,
-          "text": "Se otorga el presente reconocimiento a:",
-          "fontSize": 22,
-          "fontFamily": "Open Sans",
-          "fill": "#2c3e50"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 310,
-          "text": "[NOMBRE DE LA PERSONA]",
-          "fontSize": 38,
-          "fontFamily": "Merriweather",
-          "fill": "#8e44ad",
-          "fontStyle": "bold"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 380,
-          "text": "Por su destacada contribución en:",
-          "fontSize": 20,
-          "fontFamily": "Open Sans",
-          "fill": "#34495e"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 430,
-          "text": "[MOTIVO DEL RECONOCIMIENTO]",
-          "fontSize": 26,
-          "fontFamily": "Lato",
-          "fill": "#e67e22",
-          "fontStyle": "bold"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 490,
-          "text": "En reconocimiento a su excelencia y dedicación",
-          "fontSize": 18,
-          "fontFamily": "Open Sans",
-          "fill": "#7f8c8d"
-        },
-        {
-          "type": "text",
-          "x": 561.5,
-          "y": 540,
-          "text": "[LUGAR] - [FECHA]",
-          "fontSize": 18,
-          "fontFamily": "Open Sans",
-          "fill": "#7f8c8d"
-        },
-        {
-          "type": "image",
-          "x": 923,
-          "y": 720,
-          "width": 150,
-          "height": 100,
-          "src": "/firma/firma.jpeg"
-        }
-      ]
-    }
-  ]
+  "id": 40,
+  "name": "nuevo",
+  "description": "",
+  "category": "custom",
+  "background_image_url": "plantilla2.jpeg",
+  "template_data": {
+    "elements": [
+      {
+        "x": 66.27337078456266,
+        "y": 61.25000000000001,
+        "id": "element_1753826468532_0om8pr1tc",
+        "src": "/potencial-humano-logo.svg",
+        "type": "image",
+        "width": 80,
+        "height": 80,
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0
+      },
+      {
+        "x": 157.5271753308869,
+        "y": 71.25,
+        "id": "element_1753826468533_2jr1wbuui",
+        "fill": "#2c5530",
+        "text": "Potencial humano",
+        "type": "text",
+        "align": "left",
+        "width": 258.8879089355469,
+        "height": 28,
+        "scaleX": 1,
+        "scaleY": 1,
+        "fontSize": 23,
+        "rotation": 0,
+        "fontStyle": "italic",
+        "fontFamily": "PT Sans"
+      },
+      {
+        "x": 182.5163051985322,
+        "y": 101.25000000000003,
+        "id": "element_1753826468533_31arhx0cz",
+        "fill": "#2c5530",
+        "text": "360",
+        "type": "text",
+        "align": "left",
+        "width": 91.583984375,
+        "height": 48,
+        "scaleX": 1,
+        "scaleY": 1,
+        "fontSize": 39,
+        "rotation": 0,
+        "fontStyle": "normal",
+        "fontFamily": "Montserrat"
+      },
+      {
+        "x": 202.9059863992906,
+        "y": 177.50000000000003,
+        "id": "element_1753826468533_xpjxbw2k7",
+        "fill": "#2c5530",
+        "text": "CERTIFICADO DE PARTICIPACIÓN",
+        "type": "text",
+        "align": "center",
+        "width": 737.745849609375,
+        "height": 42,
+        "scaleX": 1,
+        "scaleY": 1,
+        "fontSize": 35,
+        "rotation": 0,
+        "fontStyle": "bold",
+        "fontFamily": "Montserrat"
+      },
+      {
+        "x": 342.8451136581043,
+        "y": 246.25000000000145,
+        "id": "element_1753826468534_udx6u89eq",
+        "fill": "#4a4a4a",
+        "text": "Potencial humano 360",
+        "type": "text",
+        "align": "left",
+        "width": 378.31665940089175,
+        "height": 38.02408530289687,
+        "scaleX": 1.1204541796038174,
+        "scaleY": 1.0249466416127957,
+        "fontSize": 26,
+        "rotation": 0,
+        "fontStyle": "bold",
+        "fontFamily": "Open Sans"
+      },
+      {
+        "x": 420.31141624780736,
+        "y": 302.5000000000007,
+        "id": "element_1753826468534_c3wmz8afz",
+        "fill": "#4a4a4a",
+        "text": "certifica que:",
+        "type": "text",
+        "align": "left",
+        "width": 243.00138790054382,
+        "height": 39.96912924868804,
+        "scaleX": 1.128048876111454,
+        "scaleY": 1.0526467392400034,
+        "fontSize": 28,
+        "rotation": 0,
+        "fontStyle": "italic",
+        "fontFamily": "Open Sans"
+      },
+      {
+        "x": 294.1163104161966,
+        "y": 378.7500000000068,
+        "id": "element_1753826468534_yqugqmnwi",
+        "fill": "#2c3e50",
+        "text": "Vicente Navarro Guerrera",
+        "type": "text",
+        "align": "left",
+        "width": 587.9987511842598,
+        "height": 49.41446590909689,
+        "scaleX": 1.179700780151971,
+        "scaleY": 1.0626475497408916,
+        "fontSize": 51,
+        "rotation": 0,
+        "fontStyle": "normal",
+        "fontFamily": "Dancing Script"
+      },
+      {
+        "x": 281.6217454823731,
+        "y": 427.4999999999999,
+        "id": "element_1753826468534_dovll82h9",
+        "fill": "#666666",
+        "text": "___________________________________________________________________________________",
+        "type": "text",
+        "align": "left",
+        "width": 639.1261681783367,
+        "height": 16,
+        "scaleX": 0.9232690670944489,
+        "scaleY": 1,
+        "fontSize": 16,
+        "rotation": 0,
+        "fontStyle": "normal",
+        "fontFamily": "Arial"
+      },
+      {
+        "x": 289.1184844426672,
+        "y": 470.00000000000574,
+        "id": "element_1753826468534_n4j1mz1gd",
+        "fill": "#4a4a4a",
+        "text": "ah participado satisfactoriamente en la/el",
+        "type": "text",
+        "align": "left",
+        "width": 624.954991422437,
+        "height": 27.296049669975236,
+        "scaleX": 1.0553545742278858,
+        "scaleY": 0.7978434482799421,
+        "fontSize": 29,
+        "rotation": 0,
+        "fontStyle": "normal",
+        "fontFamily": "Open Sans"
+      },
+      {
+        "x": 367.83424352575213,
+        "y": 521.2500000000007,
+        "id": "element_1753826468534_erwgw8660",
+        "fill": "#2c5530",
+        "text": "\"Taller de habilidades blandas\"",
+        "type": "text",
+        "align": "left",
+        "width": 606.5301180027043,
+        "height": 36.60427509765615,
+        "scaleX": 1.0824595808386204,
+        "scaleY": 1.313836445887733,
+        "fontSize": 25,
+        "rotation": 0,
+        "fontStyle": "bold",
+        "fontFamily": "Montserrat"
+      },
+      {
+        "x": 402.81902534045315,
+        "y": 580,
+        "id": "element_1753826468535_3t51rfl0o",
+        "fill": "#4a4a4a",
+        "text": "Desarrollado en la modalidad presencial",
+        "type": "text",
+        "align": "center",
+        "width": 344.52884632499826,
+        "height": 18.000000000000004,
+        "scaleX": 1.0657022677649948,
+        "scaleY": 1.0000000000000002,
+        "fontSize": 18,
+        "rotation": 0,
+        "fontStyle": "italic",
+        "fontFamily": "Open Sans"
+      },
+      {
+        "x": 462.7929370228012,
+        "y": 608.75,
+        "id": "element_1753826468535_4pabogkll",
+        "fill": "#4a4a4a",
+        "text": "Horas académicas: 12",
+        "type": "text",
+        "align": "center",
+        "width": 182.8564453125,
+        "height": 18,
+        "scaleX": 1,
+        "scaleY": 1,
+        "fontSize": 18,
+        "rotation": 0,
+        "fontStyle": "normal",
+        "fontFamily": "Open Sans"
+      },
+      {
+        "x": 843.0565246882452,
+        "y": 640,
+        "id": "element_1753826468535_bbf79n3cm",
+        "fill": "#4a4a4a",
+        "text": "25 de febrero de 2025",
+        "type": "text",
+        "align": "right",
+        "width": 152.41168506617714,
+        "height": 16,
+        "scaleX": 0.924232314215969,
+        "scaleY": 1,
+        "fontSize": 16,
+        "rotation": 0,
+        "fontStyle": "normal",
+        "fontFamily": "Open Sans"
+      },
+      {
+        "x": 424.05978572795124,
+        "y": 700.0000000000001,
+        "id": "element_1753826468535_obe683i3r",
+        "fill": "#666666",
+        "text": "________________________________",
+        "type": "text",
+        "align": "center",
+        "width": 284.75,
+        "height": 16,
+        "scaleX": 1,
+        "scaleY": 1,
+        "fontSize": 16,
+        "rotation": 0,
+        "fontStyle": "normal",
+        "fontFamily": "Arial"
+      },
+      {
+        "x": 402.81902534045463,
+        "y": 732.4999999999998,
+        "id": "element_1753826468535_3s4rvd4xw",
+        "fill": "#2c3e50",
+        "text": "Psic. Abel Uriaz Navarro Carrasco",
+        "type": "text",
+        "align": "left",
+        "width": 385.0697249714302,
+        "height": 20.00000000000008,
+        "scaleX": 0.9915317519847023,
+        "scaleY": 1.0000000000000004,
+        "fontSize": 20,
+        "rotation": 0,
+        "fontStyle": "bold",
+        "fontFamily": "Montserrat"
+      },
+      {
+        "x": 419.0619597544225,
+        "y": 761.2500000000001,
+        "id": "element_1753826468535_bi956euka",
+        "fill": "#4a4a4a",
+        "text": "Capacitador en Potencial Humano 360",
+        "type": "text",
+        "align": "center",
+        "width": 321.95347259181443,
+        "height": 15.999999999999979,
+        "scaleX": 1.0611839332187718,
+        "scaleY": 0.9999999999999993,
+        "fontSize": 16,
+        "rotation": 0,
+        "fontStyle": "normal",
+        "fontFamily": "Open Sans"
+      },
+      {
+        "x": 475.2875019566257,
+        "y": 789.9999999999998,
+        "id": "element_1753826468535_b7gmth8u7",
+        "fill": "#4a4a4a",
+        "text": "C.Ps.P. N° 64179",
+        "type": "text",
+        "align": "center",
+        "width": 151.2692625745596,
+        "height": 13.999999999999924,
+        "scaleX": 1.086040048686976,
+        "scaleY": 0.9999999999999971,
+        "fontSize": 15,
+        "rotation": 0,
+        "fontStyle": "normal",
+        "fontFamily": "Open Sans"
+      },
+      {
+        "x": 484.0010870132356,
+        "y": 668.7500000000001,
+        "id": "element_1753826468536_wvodnwi9u",
+        "src": "/firma/firma.jpeg",
+        "type": "image",
+        "width": 150,
+        "height": 40,
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0
+      }
+    ]
+  },
+  "is_public": false,
+  "is_active": true,
+  "canvas_config": {
+    "width": 1123,
+    "height": 870,
+    "orientation": "horizontal",
+    "backgroundColor": "#ffffff"
+  },
+  "created_at": "2025-07-29T22:01:01.457726+00:00",
+  "updated_at": "2025-07-29T22:32:22.073486+00:00",
+  "created_by": "jonavcar@gmail.com"
 }
