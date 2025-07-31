@@ -1,0 +1,39 @@
+User-agent: *
+Allow: /
+
+# Permitir acceso a archivos importantes
+Allow: /assets/
+Allow: /templates/
+Allow: /*.css
+Allow: /*.js
+Allow: /*.png
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.svg
+Allow: /*.ico
+
+# Bloquear archivos sensibles
+Disallow: /templates/default.json
+Disallow: /*.json$
+Disallow: /LICENSE.md
+
+# Sitemap
+Sitemap: https://psic-abelnavarro.github.io/sitemap.xml
+
+# Configuración para buscadores específicos
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# SEO adicional
+# Acelerar indexación de contenido nuevo
+User-agent: *
+Allow: /about-me
+Allow: /servicios
+Allow: /talleres
+Allow: /contacto
+Allow: /certificados
