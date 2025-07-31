@@ -3,46 +3,21 @@
   "short_name": "Psic Abel Navarro",
   "description": "Consulta psicológica profesional, terapia individual y talleres especializados",
   "start_url": "/",
-  "display": "standalone",
+  "display": "browser",
   "background_color": "#ffffff",
   "theme_color": "#2d5330",
-  "orientation": "portrait-primary",
+  "orientation": "any",
   "lang": "es",
   "icons": [
     {
-      "src": "favicon-32x32.png",
+      "src": "favicon.ico",
       "sizes": "32x32",
-      "type": "image/png"
-    },
-    {
-      "src": "favicon-16x16.png",
-      "sizes": "16x16",
-      "type": "image/png"
-    },
-    {
-      "src": "apple-touch-icon.png",
-      "sizes": "180x180",
-      "type": "image/png"
+      "type": "image/x-icon"
     },
     {
       "src": "abel-navarro-icon.svg",
       "sizes": "any",
       "type": "image/svg+xml"
-    }
-  ],
-  "categories": ["health", "medical", "lifestyle"],
-  "screenshots": [
-    {
-      "src": "assets/screenshot-desktop.png",
-      "sizes": "1280x720",
-      "type": "image/png",
-      "form_factor": "wide"
-    },
-    {
-      "src": "assets/screenshot-mobile.png",
-      "sizes": "390x844",
-      "type": "image/png",
-      "form_factor": "narrow"
     }
   ]
 }
