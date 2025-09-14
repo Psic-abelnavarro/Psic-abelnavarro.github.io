@@ -1,0 +1,62 @@
+{
+  "1": {
+    "name": "Estándar Participación",
+    "description": "Template básico para certificados de participación",
+    "url": "templates/participacion.html"
+  },
+  "2": {
+    "name": "Elegante Ponencia",
+    "description": "Template elegante para certificados de ponencia",
+    "url": "templates/ponencia.html"
+  },
+  "3": {
+    "name": "Moderno Seminario",
+    "description": "Template moderno para certificados de seminarios",
+    "url": "templates/seminario.html"
+  },
+  "4": {
+    "name": "Académico Congreso",
+    "description": "Template académico formal para congresos",
+    "url": "templates/congreso.html"
+  },
+  "5": {
+    "name": "Digital Webinar",
+    "description": "Template especial para webinars y eventos virtuales",
+    "url": "templates/webinar.html"
+  },
+  "6": {
+    "name": "Diplomado",
+    "description": "Template para programas de diplomado",
+    "url": "templates/diplomado.html"
+  },
+  "7": {
+    "name": "Capacitación",
+    "description": "Template para eventos de capacitación",
+    "url": "templates/capacitacion.html"
+  },
+  "8": {
+    "name": "Foro",
+    "description": "Template para foros y debates",
+    "url": "templates/foro.html"
+  },
+  "9": {
+    "name": "Mesa Redonda",
+    "description": "Template para mesas redondas",
+    "url": "templates/mesa_redonda.html"
+  },
+  "10": {
+    "name": "Curso Virtual",
+    "description": "Template para cursos virtuales",
+    "url": "templates/curso_virtual.html"
+  },
+  "11": {
+    "name": "Simposio",
+    "description": "Template para simposios académicos",
+    "url": "templates/simposio.html"
+  },
+  "12": {
+    "name": "Hackathon",
+    "description": "Template para hackathons",
+    "url": "templates/hackathon.html"
+  }
+}

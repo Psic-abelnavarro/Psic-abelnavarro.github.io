@@ -1,0 +1,110 @@
+{
+  "1": {
+    "stateKey": "draft",
+    "displayName": "Borrador",
+    "description": "Registro iniciado pero no completado",
+    "sortOrder": 1,
+    "color": "#6b7280",
+    "icon": "fas fa-edit",
+    "isActive": true
+  },
+  "2": {
+    "stateKey": "pending_validation",
+    "displayName": "Pendiente Validación",
+    "description": "Esperando validación de datos",
+    "sortOrder": 2,
+    "color": "#f59e0b",
+    "icon": "fas fa-clock",
+    "isActive": true
+  },
+  "3": {
+    "stateKey": "payment_required",
+    "displayName": "Pago Requerido",
+    "description": "Esperando pago para eventos pagados",
+    "sortOrder": 3,
+    "color": "#ef4444",
+    "icon": "fas fa-credit-card",
+    "isActive": true
+  },
+  "4": {
+    "stateKey": "payment_pending",
+    "displayName": "Pago Pendiente",
+    "description": "Pago en proceso de verificación",
+    "sortOrder": 4,
+    "color": "#f97316",
+    "icon": "fas fa-spinner",
+    "isActive": true
+  },
+  "5": {
+    "stateKey": "payment_failed",
+    "displayName": "Pago Fallido",
+    "description": "Error en el proceso de pago",
+    "sortOrder": 5,
+    "color": "#dc2626",
+    "icon": "fas fa-exclamation-triangle",
+    "isActive": true
+  },
+  "6": {
+    "stateKey": "confirmed",
+    "displayName": "Confirmado",
+    "description": "Inscripción confirmada y válida",
+    "sortOrder": 6,
+    "color": "#10b981",
+    "icon": "fas fa-check-circle",
+    "isActive": true
+  },
+  "7": {
+    "stateKey": "waitlist",
+    "displayName": "Lista de Espera",
+    "description": "En lista de espera por cupo completo",
+    "sortOrder": 7,
+    "color": "#8b5cf6",
+    "icon": "fas fa-hourglass-half",
+    "isActive": true
+  },
+  "8": {
+    "stateKey": "checked_in",
+    "displayName": "Check-in Realizado",
+    "description": "Asistente registrado en el evento",
+    "sortOrder": 8,
+    "color": "#06b6d4",
+    "icon": "fas fa-sign-in-alt",
+    "isActive": true
+  },
+  "9": {
+    "stateKey": "attended",
+    "displayName": "Asistió",
+    "description": "Participación confirmada con asistencia válida",
+    "sortOrder": 9,
+    "color": "#059669",
+    "icon": "fas fa-user-check",
+    "isActive": true
+  },
+  "10": {
+    "stateKey": "no_show",
+    "displayName": "No Asistió",
+    "description": "No se presentó al evento",
+    "sortOrder": 10,
+    "color": "#991b1b",
+    "icon": "fas fa-user-times",
+    "isActive": true
+  },
+  "11": {
+    "stateKey": "cancelled_by_user",
+    "displayName": "Cancelado por Usuario",
+    "description": "Usuario canceló su inscripción",
+    "sortOrder": 11,
+    "color": "#6b7280",
+    "icon": "fas fa-user-minus",
+    "isActive": true
+  },
+  "12": {
+    "stateKey": "cancelled_by_admin",
+    "displayName": "Cancelado por Admin",
+    "description": "Administrador canceló la inscripción",
+    "sortOrder": 12,
+    "color": "#374151",
+    "icon": "fas fa-ban",
+    "isActive": true
+  }
+}

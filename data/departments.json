@@ -1,0 +1,202 @@
+{
+  "1": {
+    "code": "01",
+    "name": "Amazonas",
+    "capital": "Chachapoyas",
+    "region": "norte",
+    "timezone": "America/Lima",
+    "ubigeoPrefix": "01"
+  },
+  "2": {
+    "code": "02", 
+    "name": "Áncash",
+    "capital": "Huaraz",
+    "region": "centro",
+    "timezone": "America/Lima",
+    "ubigeoPrefix": "02"
+  },
+  "3": {
+    "code": "03",
+    "name": "Apurímac", 
+    "capital": "Abancay",
+    "region": "centro",
+    "timezone": "America/Lima",
+    "ubigeoPrefix": "03"
+  },
+  "4": {
+    "code": "04",
+    "name": "Arequipa",
+    "capital": "Arequipa", 
+    "region": "sur",
+    "timezone": "America/Lima",
+    "ubigeoPrefix": "04"
+  },
+  "5": {
+    "code": "05",
+    "name": "Ayacucho",
+    "capital": "Ayacucho",
+    "region": "centro", 
+    "timezone": "America/Lima",
+    "ubigeoPrefix": "05"
+  },
+  "6": {
+    "code": "06",
+    "name": "Cajamarca",
+    "capital": "Cajamarca",
+    "region": "norte",
+    "timezone": "America/Lima", 
+    "ubigeoPrefix": "06"
+  },
+  "7": {
+    "code": "07",
+    "name": "Callao",
+    "capital": "Callao",
+    "region": "centro",
+    "timezone": "America/Lima",
+    "ubigeoPrefix": "07"
+  },
+  "8": {
+    "code": "08", 
+    "name": "Cusco",
+    "capital": "Cusco",
+    "region": "sur",
+    "timezone": "America/Lima",
+    "ubigeoPrefix": "08"
+  },
+  "9": {
+    "code": "09",
+    "name": "Huancavelica",
+    "capital": "Huancavelica",
+    "region": "centro",
+    "timezone": "America/Lima",
+    "ubigeoPrefix": "09"
+  },
+  "10": {
+    "code": "10",
+    "name": "Huánuco", 
+    "capital": "Huánuco",
+    "region": "centro",
+    "timezone": "America/Lima",
+    "ubigeoPrefix": "10"
+  },
+  "11": {
+    "code": "11",
+    "name": "Ica",
+    "capital": "Ica",
+    "region": "sur",
+    "timezone": "America/Lima",
+    "ubigeoPrefix": "11"
+  },
+  "12": {
+    "code": "12",
+    "name": "Junín",
+    "capital": "Huancayo",
+    "region": "centro", 
+    "timezone": "America/Lima",
+    "ubigeoPrefix": "12"
+  },
+  "13": {
+    "code": "13",
+    "name": "La Libertad",
+    "capital": "Trujillo",
+    "region": "norte",
+    "timezone": "America/Lima",
+    "ubigeoPrefix": "13"
+  },
+  "14": {
+    "code": "14",
+    "name": "Lambayeque",
+    "capital": "Chiclayo",
+    "region": "norte",
+    "timezone": "America/Lima",
+    "ubigeoPrefix": "14"
+  },
+  "15": {
+    "code": "15",
+    "name": "Lima",
+    "capital": "Lima",
+    "region": "centro",
+    "timezone": "America/Lima", 
+    "ubigeoPrefix": "15"
+  },
+  "16": {
+    "code": "16",
+    "name": "Loreto",
+    "capital": "Iquitos",
+    "region": "oriente",
+    "timezone": "America/Lima",
+    "ubigeoPrefix": "16"
+  },
+  "17": {
+    "code": "17",
+    "name": "Madre de Dios",
+    "capital": "Puerto Maldonado",
+    "region": "oriente",
+    "timezone": "America/Lima",
+    "ubigeoPrefix": "17"
+  },
+  "18": {
+    "code": "18",
+    "name": "Moquegua",
+    "capital": "Moquegua", 
+    "region": "sur",
+    "timezone": "America/Lima",
+    "ubigeoPrefix": "18"
+  },
+  "19": {
+    "code": "19",
+    "name": "Pasco",
+    "capital": "Cerro de Pasco",
+    "region": "centro",
+    "timezone": "America/Lima",
+    "ubigeoPrefix": "19"
+  },
+  "20": {
+    "code": "20", 
+    "name": "Piura",
+    "capital": "Piura",
+    "region": "norte",
+    "timezone": "America/Lima",
+    "ubigeoPrefix": "20"
+  },
+  "21": {
+    "code": "21",
+    "name": "Puno",
+    "capital": "Puno",
+    "region": "sur",
+    "timezone": "America/Lima",
+    "ubigeoPrefix": "21"
+  },
+  "22": {
+    "code": "22",
+    "name": "San Martín",
+    "capital": "Moyobamba",
+    "region": "oriente",
+    "timezone": "America/Lima",
+    "ubigeoPrefix": "22"
+  },
+  "23": {
+    "code": "23",
+    "name": "Tacna",
+    "capital": "Tacna",
+    "region": "sur", 
+    "timezone": "America/Lima",
+    "ubigeoPrefix": "23"
+  },
+  "24": {
+    "code": "24",
+    "name": "Tumbes",
+    "capital": "Tumbes",
+    "region": "norte",
+    "timezone": "America/Lima",
+    "ubigeoPrefix": "24"
+  },
+  "25": {
+    "code": "25",
+    "name": "Ucayali",
+    "capital": "Pucallpa",
+    "region": "oriente",
+    "timezone": "America/Lima",
+    "ubigeoPrefix": "25"
+  }
+}

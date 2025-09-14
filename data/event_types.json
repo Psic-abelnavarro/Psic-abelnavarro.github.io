@@ -1,0 +1,122 @@
+{
+  "1": {
+    "name": "Conferencia",
+    "description": "Evento de gran escala con múltiples sesiones y ponentes",
+    "durationDefaultHours": 8,
+    "certificateTemplateId": 1,
+    "minAttendancePercentage": 80,
+    "typicalCapacity": 500,
+    "icon": "conference",
+    "color": "#2563eb"
+  },
+  "2": {
+    "name": "Taller",
+    "description": "Sesión práctica interactiva con participación activa",
+    "durationDefaultHours": 4,
+    "certificateTemplateId": 2,
+    "minAttendancePercentage": 90,
+    "typicalCapacity": 50,
+    "icon": "workshop", 
+    "color": "#16a34a"
+  },
+  "3": {
+    "name": "Seminario",
+    "description": "Presentación educativa sobre un tema específico",
+    "durationDefaultHours": 2,
+    "certificateTemplateId": 3,
+    "minAttendancePercentage": 85,
+    "typicalCapacity": 100,
+    "icon": "seminar",
+    "color": "#dc2626"
+  },
+  "4": {
+    "name": "Congreso",
+    "description": "Evento académico de múltiples días con investigaciones y ponencias",
+    "durationDefaultHours": 24,
+    "certificateTemplateId": 4,
+    "minAttendancePercentage": 75,
+    "typicalCapacity": 1000,
+    "icon": "congress",
+    "color": "#7c3aed"
+  },
+  "5": {
+    "name": "Webinar",
+    "description": "Seminario virtual en línea",
+    "durationDefaultHours": 1.5,
+    "certificateTemplateId": 5,
+    "minAttendancePercentage": 90,
+    "typicalCapacity": 500,
+    "icon": "webinar",
+    "color": "#ea580c"
+  },
+  "6": {
+    "name": "Diplomado",
+    "description": "Programa de educación continua de múltiples módulos",
+    "durationDefaultHours": 120,
+    "certificateTemplateId": 6,
+    "minAttendancePercentage": 85,
+    "typicalCapacity": 30,
+    "icon": "diploma",
+    "color": "#0891b2"
+  },
+  "7": {
+    "name": "Capacitación",
+    "description": "Formación específica para desarrollo de competencias",
+    "durationDefaultHours": 6,
+    "certificateTemplateId": 7,
+    "minAttendancePercentage": 90,
+    "typicalCapacity": 25,
+    "icon": "training",
+    "color": "#be123c"
+  },
+  "8": {
+    "name": "Foro",
+    "description": "Espacio de debate e intercambio de ideas",
+    "durationDefaultHours": 3,
+    "certificateTemplateId": 8,
+    "minAttendancePercentage": 80,
+    "typicalCapacity": 150,
+    "icon": "forum",
+    "color": "#059669"
+  },
+  "9": {
+    "name": "Mesa Redonda",
+    "description": "Discusión moderada entre expertos",
+    "durationDefaultHours": 2,
+    "certificateTemplateId": 9,
+    "minAttendancePercentage": 85,
+    "typicalCapacity": 80,
+    "icon": "roundtable",
+    "color": "#9333ea"
+  },
+  "10": {
+    "name": "Curso Virtual",
+    "description": "Programa de aprendizaje en línea estructurado",
+    "durationDefaultHours": 20,
+    "certificateTemplateId": 10,
+    "minAttendancePercentage": 85,
+    "typicalCapacity": 200,
+    "icon": "online-course",
+    "color": "#0d9488"
+  },
+  "11": {
+    "name": "Simposio", 
+    "description": "Encuentro académico especializado con expertos",
+    "durationDefaultHours": 6,
+    "certificateTemplateId": 11,
+    "minAttendancePercentage": 80,
+    "typicalCapacity": 200,
+    "icon": "symposium",
+    "color": "#b91c1c"
+  },
+  "12": {
+    "name": "Hackathon",
+    "description": "Evento de desarrollo intensivo y competitivo",
+    "durationDefaultHours": 24,
+    "certificateTemplateId": 12,
+    "minAttendancePercentage": 95,
+    "typicalCapacity": 100,
+    "icon": "hackathon", 
+    "color": "#1f2937"
+  }
+}

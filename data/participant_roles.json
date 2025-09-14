@@ -1,0 +1,134 @@
+{
+  "1": {
+    "name": "Asistente",
+    "description": "Participante que asiste al evento", 
+    "certificateTitle": "Certificado de Participación",
+    "certificateTextTemplate": "Ha participado satisfactoriamente en el evento",
+    "templateId": 1,
+    "sortOrder": 1,
+    "isDefault": true,
+    "icon": "user-group",
+    "color": "#3b82f6"
+  },
+  "2": {
+    "name": "Ponente Principal", 
+    "description": "Expositor principal del evento",
+    "certificateTitle": "Certificado de Ponencia Principal", 
+    "certificateTextTemplate": "Ha dictado exitosamente una ponencia principal en el evento",
+    "templateId": 3,
+    "sortOrder": 2,
+    "isDefault": false,
+    "icon": "presentation-chart-line",
+    "color": "#dc2626"
+  },
+  "3": {
+    "name": "Ponente",
+    "description": "Expositor participante del evento",
+    "certificateTitle": "Certificado de Ponencia",
+    "certificateTextTemplate": "Ha dictado exitosamente una ponencia en el evento", 
+    "templateId": 2,
+    "sortOrder": 3,
+    "isDefault": false,
+    "icon": "microphone",
+    "color": "#059669"
+  },
+  "4": {
+    "name": "Moderador",
+    "description": "Moderador de sesiones del evento",
+    "certificateTitle": "Certificado de Moderación",
+    "certificateTextTemplate": "Ha moderado exitosamente las sesiones del evento",
+    "templateId": 1,
+    "sortOrder": 4,
+    "isDefault": false,
+    "icon": "chat-bubble-left-right", 
+    "color": "#7c3aed"
+  },
+  "5": {
+    "name": "Panelista",
+    "description": "Participante en panel de discusión",
+    "certificateTitle": "Certificado de Participación como Panelista",
+    "certificateTextTemplate": "Ha participado como panelista en el evento",
+    "templateId": 2,
+    "sortOrder": 5, 
+    "isDefault": false,
+    "icon": "user-group",
+    "color": "#ea580c"
+  },
+  "6": {
+    "name": "Organizador",
+    "description": "Organizador del evento",
+    "certificateTitle": "Certificado de Organización", 
+    "certificateTextTemplate": "Ha organizado exitosamente el evento",
+    "templateId": 3,
+    "sortOrder": 6,
+    "isDefault": false,
+    "icon": "cog-6-tooth",
+    "color": "#0891b2"
+  },
+  "7": {
+    "name": "Coordinador",
+    "description": "Coordinador académico del evento",
+    "certificateTitle": "Certificado de Coordinación Académica",
+    "certificateTextTemplate": "Ha coordinado exitosamente los aspectos académicos del evento",
+    "templateId": 2,
+    "sortOrder": 7,
+    "isDefault": false,
+    "icon": "academic-cap",
+    "color": "#be123c"
+  },
+  "8": {
+    "name": "Tallerista",
+    "description": "Facilitador de taller práctico", 
+    "certificateTitle": "Certificado de Facilitación de Taller",
+    "certificateTextTemplate": "Ha facilitado exitosamente un taller en el evento",
+    "templateId": 1,
+    "sortOrder": 8,
+    "isDefault": false,
+    "icon": "wrench-screwdriver",
+    "color": "#16a34a"
+  },
+  "9": {
+    "name": "Comentarista",
+    "description": "Comentarista especializado en las sesiones",
+    "certificateTitle": "Certificado de Comentarista Especializado", 
+    "certificateTextTemplate": "Ha participado como comentarista especializado en el evento",
+    "templateId": 2,
+    "sortOrder": 9,
+    "isDefault": false,
+    "icon": "chat-bubble-oval-left",
+    "color": "#9333ea"
+  },
+  "10": {
+    "name": "Evaluador",
+    "description": "Evaluador de trabajos o presentaciones",
+    "certificateTitle": "Certificado de Evaluación Académica",
+    "certificateTextTemplate": "Ha participado como evaluador académico en el evento",
+    "templateId": 1,
+    "sortOrder": 10,
+    "isDefault": false, 
+    "icon": "clipboard-document-check",
+    "color": "#0d9488"
+  },
+  "11": {
+    "name": "Invitado Especial",
+    "description": "Invitado de honor del evento", 
+    "certificateTitle": "Certificado de Participación Especial",
+    "certificateTextTemplate": "Ha participado como invitado especial en el evento",
+    "templateId": 3,
+    "sortOrder": 11,
+    "isDefault": false,
+    "icon": "star",
+    "color": "#b91c1c" 
+  },
+  "12": {
+    "name": "Estudiante",
+    "description": "Estudiante participante con descuento",
+    "certificateTitle": "Certificado de Participación Estudiantil",
+    "certificateTextTemplate": "Ha participado satisfactoriamente como estudiante en el evento", 
+    "templateId": 1,
+    "sortOrder": 12,
+    "isDefault": false,
+    "icon": "book-open",
+    "color": "#1f2937"
+  }
+}

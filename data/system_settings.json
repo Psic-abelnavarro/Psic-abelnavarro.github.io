@@ -1,0 +1,89 @@
+{
+  "organizationName": "Sistema de Gestión de Eventos - Perú",
+  "organizationLogo": "/assets/images/logo.png",
+  "organizationUrl": "https://eventos.gob.pe",
+  "contactEmail": "contacto@eventos.gob.pe",
+  "supportEmail": "soporte@eventos.gob.pe",
+  
+  "certificateSettings": {
+    "defaultTemplateId": 1,
+    "verificationBaseUrl": "https://eventos.gob.pe/verify",
+    "downloadEnabled": true,
+    "expirationDays": 365,
+    "watermarkEnabled": true,
+    "qrCodeEnabled": true
+  },
+  
+  "paymentSettings": {
+    "enabled": true,
+    "currency": "PEN",
+    "taxPercentage": 18.0,
+    "paymentMethods": {
+      "culqi": {
+        "enabled": true,
+        "publicKey": "pk_test_culqi_example"
+      },
+      "yape": {
+        "enabled": true,
+        "phoneNumber": "+51987654321"
+      },
+      "transfer": {
+        "enabled": true,
+        "bankAccounts": [
+          {
+            "bankName": "Banco de la Nación",
+            "accountType": "checking",
+            "accountNumber": "00000000001",
+            "holderName": "Sistema de Gestión de Eventos",
+            "holderDocumentType": "RUC",
+            "holderDocumentNumber": "20123456789",
+            "interbankCode": "01800000000000000001"
+          }
+        ]
+      }
+    }
+  },
+  
+  "notificationSettings": {
+    "email": {
+      "enabled": true,
+      "templates": {
+        "registration": "template_registration_v1",
+        "confirmation": "template_confirmation_v1", 
+        "reminder": "template_reminder_v1",
+        "certificate": "template_certificate_v1"
+      }
+    },
+    "sms": {
+      "enabled": false,
+      "provider": "twilio"
+    },
+    "push": {
+      "enabled": true
+    }
+  },
+  
+  "uiSettings": {
+    "theme": "light",
+    "primaryColor": "#1e40af",
+    "secondaryColor": "#64748b", 
+    "logoUrl": "/assets/images/logo.png",
+    "faviconUrl": "/assets/images/favicon.ico",
+    "showPoweredBy": true
+  },
+  
+  "limits": {
+    "maxEventsPerOrganizer": 100,
+    "maxParticipantsPerEvent": 5000,
+    "maxFileUploadSize": 25,
+    "certificateRetentionDays": 1095
+  },
+  
+  "security": {
+    "requireEmailVerification": true,
+    "requirePhoneVerification": false,
+    "maxLoginAttempts": 5,
+    "sessionTimeout": 480,
+    "passwordMinLength": 8
+  }
+}
