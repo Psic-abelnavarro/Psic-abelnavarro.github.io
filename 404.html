@@ -21,10 +21,11 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
   
-  <!-- Angular SPA Redirect Script -->
+  <!-- GitHub Pages SPA Redirect Script -->
   <script>
-    // Inmediatamente redirigir al index.html con la ruta preservada
-    var pathSegmentsToKeep = 0;
+    // GitHub Pages SPA redirect script for root deployment
+    // Redirect to index.html with path preserved
+    var pathSegmentsToKeep = 0; // Para deployment en raíz
     var l = window.location;
     l.replace(
       l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
