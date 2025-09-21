@@ -2,61 +2,73 @@
   "1": {
     "name": "Estándar Participación",
     "description": "Template básico para certificados de participación",
-    "url": "templates/participacion.html"
+    "templateUrl": "/template/certificado-1756515494650.json",
+    "eventTypeId": 1
   },
   "2": {
-    "name": "Elegante Ponencia",
+    "name": "Elegante Ponencia", 
     "description": "Template elegante para certificados de ponencia",
-    "url": "templates/ponencia.html"
+    "templateUrl": "/template/ponencia.json",
+    "eventTypeId": 2
   },
   "3": {
     "name": "Moderno Seminario",
-    "description": "Template moderno para certificados de seminarios",
-    "url": "templates/seminario.html"
+    "description": "Template moderno para certificados de seminarios", 
+    "templateUrl": "/template/seminario.json",
+    "eventTypeId": 3
   },
   "4": {
     "name": "Académico Congreso",
     "description": "Template académico formal para congresos",
-    "url": "templates/congreso.html"
+    "templateUrl": "/template/congreso.json",
+    "eventTypeId": 4
   },
   "5": {
     "name": "Digital Webinar",
     "description": "Template especial para webinars y eventos virtuales",
-    "url": "templates/webinar.html"
+    "templateUrl": "/template/webinar.json", 
+    "eventTypeId": 5
   },
   "6": {
     "name": "Diplomado",
     "description": "Template para programas de diplomado",
-    "url": "templates/diplomado.html"
+    "templateUrl": "/template/diplomado.json",
+    "eventTypeId": 6
   },
   "7": {
     "name": "Capacitación",
     "description": "Template para eventos de capacitación",
-    "url": "templates/capacitacion.html"
+    "templateUrl": "/template/capacitacion.json",
+    "eventTypeId": 7
   },
   "8": {
     "name": "Foro",
     "description": "Template para foros y debates",
-    "url": "templates/foro.html"
+    "templateUrl": "/template/foro.json",
+    "eventTypeId": 8
   },
   "9": {
     "name": "Mesa Redonda",
     "description": "Template para mesas redondas",
-    "url": "templates/mesa_redonda.html"
+    "templateUrl": "/template/mesa_redonda.json",
+    "eventTypeId": 9
   },
   "10": {
     "name": "Curso Virtual",
     "description": "Template para cursos virtuales",
-    "url": "templates/curso_virtual.html"
+    "templateUrl": "/template/curso_virtual.json",
+    "eventTypeId": 10
   },
   "11": {
     "name": "Simposio",
     "description": "Template para simposios académicos",
-    "url": "templates/simposio.html"
+    "templateUrl": "/template/simposio.json",
+    "eventTypeId": 11
   },
   "12": {
     "name": "Hackathon",
     "description": "Template para hackathons",
-    "url": "templates/hackathon.html"
+    "templateUrl": "/template/hackathon.json",
+    "eventTypeId": 12
   }
 }
